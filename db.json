@@ -1,20 +1,15 @@
 {
   "Category": [
-    { "id": 1, "CategoryName": "Khoa học" },
-    { "id": 2, "CategoryName": "Giáo dục" },
-    { "id": 3, "CategoryName": "Đời sống" },
-    { "id": 4, "CategoryName": "Trường học" },
-    { "id": 5, "CategoryName": "Xã hội" },
-    { "id": 6, "CategoryName": "Âm nhạc" },
-    { "id": 6, "CategoryName": "Thời trang" },
-    { "id": 7, "CategoryName": "Du lịch" },
-    { "id": 8, "CategoryName": "Công nghệ" }
+    { "id": 1, "CategoryName": "Esport" },
+    { "id": 2, "CategoryName": "Tin Tức" },
+    { "id": 3, "CategoryName": "Khám Phá" },
+    { "id": 4, "CategoryName": "MANGA/FILM" }
   ],
   "News": [
-   {"id": 1 ,"Title" : "Phó Trưởng Công an huyện và Trưởng phòng Văn hóa đuối nước tử vong" , "Image" : "", "Brief" : "Tối ngày 21/7, tại đập Chắt, xã Phú Khê (Cẩm Khê, Phú Thọ) Thông tin huyện Cẩm Khê tử vong, một số người đi cùng đoàn may mắn thoát nạn.", "Contetnt": "Sáng 22/7,ê tử vong" ,"PostedDate":"22/07/2021"},
-   {"id": 2 ,"Title" : "Nữ ca sĩ nổi tiếng từ Sao Mai Điểm Hẹn nhưng khổ sở vì ảnh nóng, sau 15 năm mới hé lộ: “Bố mẹ là người đầu tiên nhận được hình của tôi và người đó”" , "Image" : "", "Brief" : "Những chia sẻ mới nhất của nữ ca sĩ này về những biến cố lớn trong đời nhận được rất nhiều sự chú ý từ khán giả.", "Contetnt": "Nguyễn Hồng Nhung là một trong nhữộ cả ảnh nóng.Sau 15 năm kể từ ngày scandal lộ ảnh nóng rầm rộ trên MXH, mới đây, nữ ca sĩ bất ngờ xuất hiện trong chương trình Duyên Phận. Đáng nói, đây cũng là lần hiếm hoi cô chia sẻ với netizen về những biến cố lớn trong cuộc đời của mình." ,"PostedDate":"22/07/2021"},
-   {"id": 3 ,"Title" : "Hàng nghìn người từ TP.HCM đổ về quê tránh dịch bằng xe máy" , "Image" : "", "Brief" : "Mỗi ngày có hàng trăm người từ các tỉnh phía Nam đi xe máy, ô tô cá nhân về Quảng Ngãi tránh dịch.", "Contetnt": "Những ngày qua, khi nhiều tỉnh phía Nam bùng phát dịch và thực hiện giãn cách xã hội theo Chỉ thị 16 của Thủ tướng Chính phủ, lượng người đổ về Quảng NTP.HCM… qua chốt kiểm soát dịch tại đèo Bình Đê (giáp ranh giữa tỉnh Bình Định và Quảng Ngãi), vào địa phận Quảng Ngãi." ,"PostedDate":"22/07/2021"},
-   {"id": 4 ,"Title" : "Công an vào cuộc xác minh vụ người đàn ông đạp đổ bàn xét nghiệm của nhân viên y tế ở TP. HCM" , "Image" : "https://play-lh.googleusercontent.com/hZjjZC_wERr05raTgSHV_5MmaacnLECvnRHb0BFLD66wqxPsyhz56tzn-PH0BppRV1Q", "Brief" : "Theo nội dung đoạn clip được cho xảy ra tại TP.HCM, một người đàn ông mặc trang phục khá lịch sự đến vị trí làm việc này. ", "Contetnt": "Nviên y tế đang tiến hành lấy mẫu xét nghiệm cho người dân thì người đàn ông o trên đó hay không." ,"PostedDate":" 22/07/2021"}
+   {"id": 1 ,"Title" : "One Piece: Nhọ như chúa hề Buggy vì ăn nhầm trái ác quỷ mà mất đi sức mạnh và luôn bị dìm hàng trong băng Roger?" , "Image" : "https://gamek.mediacdn.vn/133514250583805952/2021/7/22/anh-3-1626936982990699807243.jpg", "Brief" : "Như chúng ta đã biết trong quá khứ, Buggy từng là cựu thuyền viên trên tàu của Vua hải tặc Gol D. Roger- một băng hùng mạnh bậc nhất thế giới. Buggy đã ở đây ngay từ khi còn nhỏ, tuy nhiên khác với những thành viên khác sức mạnh của Buggy không mấy nổi bật. Và cho đến nay nhiều người cho rằng có thể Buggy chính là thành viên yếu nhất của băng Roger", "Contetnt": "Cho đến nay, Buggy có thể là cựu thành viên yếu nhất trong băng Roger?" ,"PostedDate":"24/07/2021"},
+   {"id": 2 ,"Title" : "Spoil nhanh One Piece 1020: Yamato ăn trái ác quỷ Zoan Thần Thoại loại Thần Sói" , "Image" : "https://gamek.mediacdn.vn/133514250583805952/2021/7/21/photo-1-16268633440291290686191.jpg", "Brief" : "Đầu chap này là phần nối tiếp theo đoạn kết ở chap 1019, về trận chiến giữa Yamato vs Kaido. Chap 1020 đã tiết lộ tên trái ác quỷ của Yamato là thuộc hệ Zoan Thần Thoại Inu Inu, model Ooguchi no Makami.", "Contetnt": "Năng lực được tiết lộ của con gái Kaido khiến các fan đều ngỡ ngàng." ,"PostedDate":"24/07/2021"},
+   {"id": 3 ,"Title" : "Inosuke trong Kimetsu no Yaiba và 7 nhân vật anime được nuôi dưỡng bởi động vật" , "Image" : "https://gamek.mediacdn.vn/133514250583805952/2021/7/21/demon-slayer-inosuke-1626838440301999961423.jpeg", "Brief" : "Khi được yêu cầu kể tên những nhân vật nổi tiếng do động vật nuôi dưỡng trong thế giới anime, đây là những cái tên ấn tượng nhất:", "Contetnt": "Nhờ sự giáo dục độc đáo từ động vật, các nhân vật anime này có một khía cạnh hoang dã độc đáo." ,"PostedDate":"22/07/2021"},
+   {"id": 4 ,"Title" : "Boruto: Con trai Naruto thể hiện hình dạng nguy hiểm mới để đánh bại kẻ thù" , "Image" : "https://gamek.mediacdn.vn/133514250583805952/2021/7/20/photo-1-16267757824421735391015.jpg", "Brief" : "Tập mới nhất của anime Boruto đã cho thấy một dạng mới của con trai Naruto, mặc dù nó không hoàn hảo nhưng rất nguy hiểm. Dạng này có liên quan đến Momoshiki cũng như gia tộc Otsutsuki nói chung, cụ thể là dạng Karma của Boruto. ", "Contetnt": "Trong tập mới nhất của anime, Boruto đã thể hiện hình dạng mới nguy hiểm của mình." ,"PostedDate":" 22/07/2021"}
   ]
   
 }
