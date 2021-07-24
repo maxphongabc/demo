@@ -3,7 +3,7 @@
     { "Id": 1, "Name": "Esport" },
     { "Id": 2, "Name": "Tin Tức" },
     { "Id": 3, "Name": "Khám Phá" },
-    { "Id": 4, "CategoryName": "MANGA/FILM" }
+    { "Id": 4, "Name": "MANGA/FILM" }
   ],
   "TinTuc": [
    {"Id": 1 ,"Title" : "One Piece: Nhọ như chúa hề Buggy vì ăn nhầm trái ác quỷ mà mất đi sức mạnh và luôn bị dìm hàng trong băng Roger?" , "Image" : "https://gamek.mediacdn.vn/133514250583805952/2021/7/22/anh-3-1626936982990699807243.jpg", "Brief" : "Như chúng ta đã biết trong quá khứ, Buggy từng là cựu thuyền viên trên tàu của Vua hải tặc Gol D. Roger- một băng hùng mạnh bậc nhất thế giới. Buggy đã ở đây ngay từ khi còn nhỏ, tuy nhiên khác với những thành viên khác sức mạnh của Buggy không mấy nổi bật. Và cho đến nay nhiều người cho rằng có thể Buggy chính là thành viên yếu nhất của băng Roger", "Contetnt": "Cho đến nay, Buggy có thể là cựu thành viên yếu nhất trong băng Roger?" ,"PostedDate":"24/07/2021"},
